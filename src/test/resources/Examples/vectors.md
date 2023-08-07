@@ -1,0 +1,15 @@
+# Vectors
+- [[Vectors act like resizable arrays]].
+- [[What is another way to think of a vector?:::
+As a 2D array.]]
+
+## Declaring a vector
+- [[General Form: Vector<type> v = new Vector();]]
+- Example: Vector<Integer> v = new Vector();
+
+- [[type needs to be a valid reference type]]
+
+## Adding an element to a vector
+- [[v.add(object of type);]]
+
+- Reminder - go back and review clearing a vector!

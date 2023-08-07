@@ -1,0 +1,61 @@
+Welcome to your study session!
+Please input the filepath of the question bank you would like to study with:
+The given filepath does not lead to a valid .sr (question bank) file. Please input a valid filepath.Now, please input the number of questions you would like to practice in this session:
+Input must be a natural number. Please input a valid (natural) number.
+QUESTION: Which country is known as the Land of the Rising Sun?
+Please choose an option and input the corresponding number:
+1. Mark Easy
+2. Mark Hard
+3. Show Answer
+4. Exit
+
+ANSWER: Japan.
+Please choose an option and input the corresponding number:
+1. Mark Easy
+2. Mark Hard
+3. Show Question
+4. Exit
+
+QUESTION: Which country is the largest in terms of land area?
+Please choose an option and input the corresponding number:
+1. Mark Easy
+2. Mark Hard
+3. Show Answer
+4. Exit
+
+QUESTION: What is the highest waterfall in the world?
+Please choose an option and input the corresponding number:
+1. Mark Easy
+2. Mark Hard
+3. Show Answer
+4. Exit
+
+QUESTION: What is the tallest mountain in North America?
+Please choose an option and input the corresponding number:
+1. Mark Easy
+2. Mark Hard
+3. Show Answer
+4. Exit
+
+QUESTION: What is the capital of Canada?
+Please choose an option and input the corresponding number:
+1. Mark Easy
+2. Mark Hard
+3. Show Answer
+4. Exit
+
+QUESTION: Which continent is known as the "Roof of the World"?
+Please choose an option and input the corresponding number:
+1. Mark Easy
+2. Mark Hard
+3. Show Answer
+4. Exit
+
+SESSION STATS:
+You answered 6 question(s).
+1 question(s) went from easy to hard.
+2 question(s) went from hard to easy.
+
+Current Counts in Question Bank:
+3 hard questions
+5 easy questions
